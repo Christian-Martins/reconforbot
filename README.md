@@ -4,6 +4,26 @@ Ayez un ami sur Discord, ayez ReconforBot.
 Have a friend on Discore, have ReconforBot.
 
 
+# 💬 🇺🇸/🇬🇧 English/Anglais
+# 🤔 What is ReconForBot?
+
+> ReconForBot is a Discord bot 🤖 that sings poems. \
+> If you whant, ReconForBot can automatically join a channel for sing a poem when a person is alone.
+
+# ✨ Features currently available
+
+=> Text-To-Speech (https://github.com/mundoex/discord-tts#readme) \
+
+# 🎫 Upcoming features
+(If you are a developer, do not hesitate to make a pull request in this section so that we know what to do).
+
+=> Random poems
+=> Multilanguage
+=> Automatic join
+
+
+
+
 # 💬 🇫🇷 Français/French
 # 🤔 Qu'est ce que c'est ReconForBot?
 
@@ -23,20 +43,4 @@ Have a friend on Discore, have ReconforBot.
 => Join automatique
 
 
-# 💬 🇺🇸/🇬🇧 English/Anglais
-# 🤔 What is ReconForBot?
-
-> ReconForBot is a Discord bot 🤖 that sings poems. \
-> If you whant, ReconForBot can automatically join a channel for sing a poem when a person is alone.
-
-# ✨ Features currently available
-
-=> Text-To-Speech (https://github.com/mundoex/discord-tts#readme) \
-
-# 🎫 Upcoming features
-(If you are a developer, do not hesitate to make a pull request in this section so that we know what to do).
-
-=> Random poems
-=> Multilanguage
-=> Automatic join
 
