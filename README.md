@@ -13,7 +13,7 @@ Have a friend, have reconforbot.
 
 # ✨ Les fonctionnalités actuellement disponible
 
-=> Text-To-Speech (https://github.com/Androz2091/Cicero) \
+=> Text-To-Speech (https://github.com/mundoex/discord-tts#readme) \
 
 # 🎫 Fonctionnalités à venir
 (Si vous êtes un développeur, n'hésitez pas à faire un pull request dans cette section pour qu'on sache quoi faire).
@@ -22,15 +22,6 @@ Have a friend, have reconforbot.
 => Multilanguage
 => Join automatique
 
-Merci à
-❤ Androz2091 pour le TTS
-🧡
-💛
-💚
-💜
-🤎
-🖤
-🤍
 
 # 💬 🇺🇸/🇬🇧 English/Anglais
 # 🤔 What is ReconForBot?
@@ -40,7 +31,7 @@ Merci à
 
 # ✨ Features currently available
 
-=> Text-To-Speech (https://github.com/Androz2091/Cicero) \
+=> Text-To-Speech (https://github.com/mundoex/discord-tts#readme) \
 
 # 🎫 Upcoming features
 (If you are a developer, do not hesitate to make a pull request in this section so that we know what to do).
@@ -48,14 +39,4 @@ Merci à
 => Random poems
 => Multilanguage
 => Automatic join
-
-Thanks to
-❤ Androz2091 for the TTS
-🧡
-💛
-💚
-💜
-🤎
-🖤
-🤍
 
