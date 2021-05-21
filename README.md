@@ -22,7 +22,7 @@ Have a friend on Discore, have ReconforBot.
 - Automatic join
 
 
-<br/><br/></br><br/><br/> <!-- Yeah it's not beautiful but fuck off it's a readme lol -->
+<br/><br/></br><br/> <!-- Yeah it's not beautiful but fuck off it's a readme lol -->
 
 
 
