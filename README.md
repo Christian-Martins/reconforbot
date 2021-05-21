@@ -4,7 +4,7 @@ Ayez un ami, ayez reconforbot.
 Have a friend, have reconforbot.
 
 
-# 💬 🟦⬜🟥 Français/French
+# 💬 🇫🇷 Français/French
 # 🤔 Qu'est ce que c'est ReconForBot?
 
 > ReconForBot est un bot Discord 🤖 permettant de chanter des poèmes. \
