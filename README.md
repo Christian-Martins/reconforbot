@@ -17,9 +17,9 @@ Have a friend on Discore, have ReconforBot.
 # 🎫 Upcoming features
 (If you are a developer, do not hesitate to make a pull request in this section so that we know what to do).
 
-=> Random poems
-=> Multilanguage
-=> Automatic join
+- Random poems
+- Multilanguage
+- Automatic join
 
 
 <br/><br/></br><br/><br/> <!-- Yeah it's not beautiful but fuck off it's a readme lol -->
@@ -40,9 +40,9 @@ Have a friend on Discore, have ReconforBot.
 # 🎫 Fonctionnalités à venir
 (Si vous êtes un développeur, n'hésitez pas à faire un pull request dans cette section pour qu'on sache quoi faire).
 
-=> Récupération de poèmes au hasard
-=> Multilanguage
-=> Join automatique
+- Récupération de poèmes au hasard
+- Multilanguage
+- Join automatique
 
 
 
