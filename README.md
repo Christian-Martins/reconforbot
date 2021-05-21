@@ -1,7 +1,7 @@
-# reconforbot
-Ayez un ami, ayez reconforbot.
+# ReconforBot
+Ayez un ami sur Discord, ayez ReconforBot.
 
-Have a friend, have reconforbot.
+Have a friend on Discore, have ReconforBot.
 
 
 # 💬 🇫🇷 Français/French
